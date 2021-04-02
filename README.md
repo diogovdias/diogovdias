@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diogovdias
-- 💻 Front End Developer
+- 💻 Front End Developer @ Concealed
 
 <!---
 diogovdias/diogovdias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
